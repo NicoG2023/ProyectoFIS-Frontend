@@ -30,7 +30,7 @@ export function PaymentProductList(props) {
             <Image src={order.product_data.image} avatar size="tiny" />
             <span>{order.product_data.title}</span>
           </div>
-          <span>{order.product_data.price} €</span>
+          <span>{order.product_data.price} $</span>
         </div>
       ))}
     </div>
