@@ -1,4 +1,4 @@
-export const BASE_API = "http://127.0.0.1:8000";
+export const BASE_API = "https://backend-proyecto-fis.onrender.com";
 export const TOKEN = "token";
 
 export const ORDER_STATUS = {
